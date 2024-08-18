@@ -20,3 +20,5 @@ jobs:
           addon: ${{ github.event.client_payload.addon }}
           repository: ${{ github.repository }}
           token: ${{ secrets.UPDATER_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.UPDATER_TOKEN }}
