@@ -1,11 +1,11 @@
 ---
 channel: edge
 addons:
-  pgadmin4:
+  timescaledb:
     repository: expaso/hassos-addon-timescaledb
     target: timescaledb
     image: ghcr.io/expaso/timescaledb/{arch}
-  timescaledb:
+  pgadmin4:
     repository: expaso/addon-addon-pgadmin4
     target: pgadmin4
     image: ghcr.io/expaso/pgamin4/{arch}
