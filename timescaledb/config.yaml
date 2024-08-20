@@ -3,8 +3,8 @@ name: TimescaleDB
 version: 4.0.1
 stage: stable
 slug: timescaledb
-description: >- 
-  An open-source database built on PostgreSQL for analyzing time-series data 
+description: >-
+  An open-source database built on PostgreSQL for analyzing time-series data
   with the power and convenience of SQL
 url: https://github.com/expaso/hassos-addon-timescaledb
 codenotary: hans@expaso.nl
@@ -28,8 +28,8 @@ breaking_versions:
 ports:
   5432/tcp:
 ports_description:
-  5432/tcp: >- 
-    PostgreSQL Port. Beware! This port may already be in use. 
+  5432/tcp: >-
+    PostgreSQL Port. Beware! This port may already be in use.
     Choose another port-number if the add-on won't start.
 options:
   databases:
