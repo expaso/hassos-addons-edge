@@ -1,18 +1,17 @@
----
 name: pgAdmin4
-version: 3.0.1
+version: c7b3b08
 stage: stable
 slug: pgadmin4
 description: A PostgreSQL Management and Query tool
-url: https://github.com/expaso/hassos-addon-pgadmin4
+url: https://github.com/Expaso/hassos-addon-pgadmin4
 codenotary: hans@expaso.nl
 arch:
-  - aarch64
-  - amd64
-  - armhf
-  - armv7
-  - i386
-startup: services
+- aarch64
+- amd64
+- armhf
+- i386
+- armv7
+startup: application
 ingress: true
 ingress_port: 0
 panel_icon: mdi:database
@@ -24,15 +23,15 @@ init: false
 homeassistant: 0.92.0b2
 timeout: 20
 ports:
-  80/tcp:
-  443/tcp:
+  80/tcp: null
+  443/tcp: null
 ports_description:
-  80/tcp: Web interface (Not required for Ingress)
-  443/tcp: Web interface SSL (Not required for Ingress)
+  80/tcp: Web interface (Not required for Ingress i.e. Sidebar)
+  443/tcp: Web interface SSL (Not required for Ingress i.e. Sidebar)
 auth_api: true
 map:
-  - ssl
-  - share:rw
+- ssl
+- share:rw
 options:
   ssl: true
   certfile: fullchain.pem
@@ -45,8 +44,8 @@ schema:
   certfile: str
   keyfile: str
   system_packages:
-    - str
+  - str
   init_commands:
-    - str
+  - str
   leave_front_door_open: bool?
-image: husselhans/hassos-addon-pgadmin4-{arch}
+image: ghcr.io/expaso/pgamin4/{arch}
