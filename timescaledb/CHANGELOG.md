@@ -1,4 +1,5 @@
 # Changelog since v4.0.1
+- Setup Edge Repository 
 - Updated Addon Version Identifier 
 - Updated config.yaml 
 - Updated config.yaml - Switched Repository 
