@@ -68,19 +68,19 @@ on the correct GitHub repository matching the add-on.
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
-[addon-timescaledb]: https://github.com/expaso/hassos-addon-timescaledb/tree/6861b86
-[addon-doc-timescaledb]: https://github.com/expaso/hassos-addon-timescaledb/blob/6861b86/README.md
+[addon-timescaledb]: https://github.com/expaso/hassos-addon-timescaledb/tree/v4.0.1
+[addon-doc-timescaledb]: https://github.com/expaso/hassos-addon-timescaledb/blob/v4.0.1/README.md
 [timescaledb-issue]: https://github.com/expaso/hassos-addon-timescaledb/issues
-[timescaledb-version-shield]: https://img.shields.io/badge/version-6861b86-blue.svg
+[timescaledb-version-shield]: https://img.shields.io/badge/version-v4.0.1-blue.svg
 [timescaledb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [timescaledb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [timescaledb-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [timescaledb-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [timescaledb-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-pgadmin4]: https://github.com/expaso/hassos-addon-pgadmin4/tree/c7b3b08
-[addon-doc-pgadmin4]: https://github.com/expaso/hassos-addon-pgadmin4/blob/c7b3b08/README.md
+[addon-pgadmin4]: https://github.com/expaso/hassos-addon-pgadmin4/tree/v3.0.1
+[addon-doc-pgadmin4]: https://github.com/expaso/hassos-addon-pgadmin4/blob/v3.0.1/README.md
 [pgadmin4-issue]: https://github.com/expaso/hassos-addon-pgadmin4/issues
-[pgadmin4-version-shield]: https://img.shields.io/badge/version-c7b3b08-blue.svg
+[pgadmin4-version-shield]: https://img.shields.io/badge/version-v3.0.1-blue.svg
 [pgadmin4-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [pgadmin4-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [pgadmin4-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
