@@ -1,3 +1,22 @@
-## Changes
-
-* Optimized the CI/CD pipeline
+# Changelog since v4.0.1
+- Updated to beta channel 
+- Update project.sh 
+- Added release drafter again 
+- Setup Edge Repository 
+- Updated Addon Version Identifier 
+- Updated config.yaml 
+- Updated config.yaml - Switched Repository 
+- version nr fix 
+- tried a fix 
+- ss 
+- Fix lint error 
+- added parameters 
+- Fixed some lint errors 
+- Added release drafter template 
+- Fixed some repo errors 
+- Cleaning up 
+- Prettified Code! 
+- Prettified Code! 
+- Prettified Code! 
+- Prettified Code! 
+- Updated due to maintenance 
