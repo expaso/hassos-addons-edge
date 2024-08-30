@@ -1,5 +1,5 @@
 ---
-channel: beta
+channel: edge
 addons:
   timescaledb:
     repository: expaso/hassos-addon-timescaledb
