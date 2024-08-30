@@ -86,7 +86,7 @@ For a general repository issue or add-on ideas [open an issue here][issue]
 [pgadmin4-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [pgadmin4-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [pgadmin4-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [gitlabci-shield]: https://gitlab.com/expaso/hassos-addons-edge/badges/master/pipeline.svg
 [license-shield]: https://img.shields.io/github/license/expaso/hassos-addons-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
