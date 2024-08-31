@@ -1,4 +1,11 @@
 # Changelog since v3.0.1
+- Removed cache-bust 
+- Added pgAdmin4 addon to the new CI/CD pipeline (#10)
+
+* Pushed new CI/CD actions
+* Cleaned-up codebase
+
+Co-authored-by: Hans van Essen <Expaso@users.noreply.github.com> 
 - Updated Config.yaml 
 - Updated config.yaml 
 - Fixed Linter Errors 
