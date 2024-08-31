@@ -8,4 +8,4 @@ addons:
   pgadmin4:
     repository: expaso/hassos-addon-pgadmin4
     target: pgadmin4
-    image: husselhans/hassos-addon-timescaledb-{arch}
+    image: ghcr.io/expaso/pgadmin4/{arch}
