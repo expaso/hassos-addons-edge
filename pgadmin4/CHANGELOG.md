@@ -1,4 +1,8 @@
 # Changelog since v3.0.1
+- removed referemc 
+- doc fix? 
+- Prettified Code! 
+- Worked on docs 
 - Removed cache-bust 
 - Added pgAdmin4 addon to the new CI/CD pipeline (#10)
 
