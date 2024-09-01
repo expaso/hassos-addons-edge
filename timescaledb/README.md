@@ -100,11 +100,11 @@ In this case, you need to have a working Docker installation on your machine.
 pull one of the images for the desired architecture from docker hub:
 
 ```
-docker pull ghcr.io/expaso/timescaledb/amd64:latest
-docker pull ghcr.io/expaso/timescaledb/aarch64:latest
-docker pull ghcr.io/expaso/timescaledb/armv7:latest
-docker pull ghcr.io/expaso/timescaledb/armhf:latest
-docker pull ghcr.io/expaso/timescaledb/i386:latest
+docker pull ghcr.io/expaso/timescaledb/amd64:stable
+docker pull ghcr.io/expaso/timescaledb/aarch64:stable
+docker pull ghcr.io/expaso/timescaledb/armv7:stable
+docker pull ghcr.io/expaso/timescaledb/armhf:stable
+docker pull ghcr.io/expaso/timescaledb/i386:stable
 ```
 
 You can replace latest with the version number you want to use.
@@ -203,7 +203,7 @@ If you are more interested in stable releases, use the stable repository:
 
 
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-324f5d3-blue.svg
-[release]: https://github.com/expaso/hassos-addon-timescaledb/tree/324f5d3
+[release-shield]: https://img.shields.io/badge/version-d320a8a-blue.svg
+[release]: https://github.com/expaso/hassos-addon-timescaledb/tree/d320a8a
 [license-shield]: https://img.shields.io/github/license/expaso/hassos-addon-TimescaleDB.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg

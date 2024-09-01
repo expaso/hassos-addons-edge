@@ -1,26 +1,6 @@
-# Changelog since v4.0.1
-- Updated Readme 
-- Chaed License 
-- Reverted release update triggers 
-- Added extra release trigers 
-- Updated to beta channel 
-- Update project.sh 
-- Added release drafter again 
-- Setup Edge Repository 
-- Updated Addon Version Identifier 
-- Updated config.yaml 
-- Updated config.yaml - Switched Repository 
-- version nr fix 
-- tried a fix 
-- ss 
-- Fix lint error 
-- added parameters 
-- Fixed some lint errors 
-- Added release drafter template 
-- Fixed some repo errors 
-- Cleaning up 
-- Prettified Code! 
-- Prettified Code! 
-- Prettified Code! 
-- Prettified Code! 
-- Updated due to maintenance 
+# Changelog since v4.1.0
+- Fallback to previous image for now 
+- Linter fix 
+- Added System-Stat extension 
+- Fix 
+- Renamed docker image location 
