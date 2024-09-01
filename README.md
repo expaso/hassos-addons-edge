@@ -79,10 +79,10 @@ For a general repository issue or add-on ideas [open an issue here][issue]
 [timescaledb-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [timescaledb-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [timescaledb-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-pgadmin4]: https://github.com/expaso/hassos-addon-pgadmin4/tree/291f0e7
-[addon-doc-pgadmin4]: https://github.com/expaso/hassos-addon-pgadmin4/blob/291f0e7/README.md
+[addon-pgadmin4]: https://github.com/expaso/hassos-addon-pgadmin4/tree/ed513a2
+[addon-doc-pgadmin4]: https://github.com/expaso/hassos-addon-pgadmin4/blob/ed513a2/README.md
 [pgadmin4-issue]: https://github.com/expaso/hassos-addon-pgadmin4/issues
-[pgadmin4-version-shield]: https://img.shields.io/badge/version-291f0e7-blue.svg
+[pgadmin4-version-shield]: https://img.shields.io/badge/version-ed513a2-blue.svg
 [pgadmin4-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [pgadmin4-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [pgadmin4-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
