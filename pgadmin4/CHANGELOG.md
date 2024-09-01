@@ -1,4 +1,6 @@
 # Changelog since v3.0.1
+- Updated License 
+- Updated License 
 - Updated README 
 - Added license 
 - Updated README 
