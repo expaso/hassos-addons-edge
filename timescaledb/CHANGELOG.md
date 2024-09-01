@@ -1,4 +1,6 @@
 # Changelog since v4.0.1
+- Reverted release update triggers 
+- Added extra release trigers 
 - Updated to beta channel 
 - Update project.sh 
 - Added release drafter again 
