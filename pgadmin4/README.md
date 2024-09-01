@@ -1,6 +1,6 @@
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
-[![License][license-shield]](LICENSE)
+[![License][license-shield]](LICENSE.md)
 
 # Home Assistant Add-on: [pgAdmin 4](https://www.pgadmin.org/)
 
@@ -89,7 +89,7 @@ If you are more interested in stable releases, use the stable repository:
 
 
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-f875977-blue.svg
-[release]: https://github.com/expaso/hassos-addon-pgadmin4/tree/f875977
+[release-shield]: https://img.shields.io/badge/version-ac165ca-blue.svg
+[release]: https://github.com/expaso/hassos-addon-pgadmin4/tree/ac165ca
 [license-shield]: https://img.shields.io/github/license/pgAdmin4.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
