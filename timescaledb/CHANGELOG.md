@@ -1,4 +1,5 @@
 # Changelog since v4.0.1
+- Updated Readme 
 - Chaed License 
 - Reverted release update triggers 
 - Added extra release trigers 
