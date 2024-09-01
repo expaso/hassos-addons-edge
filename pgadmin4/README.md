@@ -4,7 +4,7 @@
 
 # Home Assistant Add-on: [pgAdmin 4](https://www.pgadmin.org/)
 
-<a href="https://www.buymeacoffee.com/expaso" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
+<a href="https://www.buymeacoffee.com/expaso" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Introduction
 
@@ -89,7 +89,7 @@ If you are more interested in stable releases, use the stable repository:
 
 
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-4a86de4-blue.svg
-[release]: https://github.com/expaso/hassos-addon-pgadmin4/tree/4a86de4
+[release-shield]: https://img.shields.io/badge/version-26c7b6a-blue.svg
+[release]: https://github.com/expaso/hassos-addon-pgadmin4/tree/26c7b6a
 [license-shield]: https://img.shields.io/github/license/expaso/hassos-addon-pgAdmin4.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
