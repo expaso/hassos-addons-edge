@@ -1,4 +1,5 @@
 # Changelog since v4.0.1
+- Chaed License 
 - Reverted release update triggers 
 - Added extra release trigers 
 - Updated to beta channel 
