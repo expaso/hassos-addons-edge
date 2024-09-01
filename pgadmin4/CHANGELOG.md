@@ -1,4 +1,6 @@
 # Changelog since v3.0.1
+- Prettified Code! 
+- Updated readme's 
 - removed referemc 
 - doc fix? 
 - Prettified Code! 
