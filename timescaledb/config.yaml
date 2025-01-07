@@ -1,5 +1,5 @@
 name: TimescaleDB
-version: d320a8a
+version: b6d7662
 slug: timescaledb
 description: An open-source database built on PostgreSQL for analyzing time-series
   data with the power and convenience of SQL
