@@ -1,4 +1,7 @@
 # Changelog since v4.2.0
+- Prettified Code! 
+- - Added Repo Button
+- Fixed an issue within auto-upgrade 
 - Merge pull request #52 from expaso/v5_Postgresql17
 
 Upgrade to PostgreSql 17.2 
