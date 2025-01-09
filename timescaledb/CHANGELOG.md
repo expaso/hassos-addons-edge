@@ -1,4 +1,5 @@
 # Changelog since v4.2.0
+- Compiled Postgis 2.5.1 myself because of an upgrade bug in RC5 
 - Prettified Code! 
 - - Added Repo Button
 - Fixed an issue within auto-upgrade 
