@@ -1,4 +1,6 @@
 # Changelog since v4.2.0
+- Fixed compatibility issue 
+- Upgraded Timescale to the much awaited 2.18.x 
 - Compiled Postgis 2.5.1 myself because of an upgrade bug in RC5 
 - Prettified Code! 
 - - Added Repo Button
