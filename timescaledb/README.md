@@ -6,7 +6,7 @@
 
 # Home Assistant Add-on: [PostgreSQL](https://www.postgresql.org/) [TimescaleDB](https://www.timescale.com/)
 
-## [PostgreSql 17.2](https://www.postgresql.org/) & [Postgis 3.5.1](https://postgis.net/) & [TimescaleDB 2.17.2](https://www.timescale.com/) & [TimescaleDB Toolkit 1.19.0](https://github.com/timescale/timescaledb-toolkit) & [pgAgent 4.2.2](https://www.pgadmin.org/docs/pgadmin4/development/pgagent.html)
+## [PostgreSql 17.4](https://www.postgresql.org/) & [Postgis 3.5.1](https://postgis.net/) & [TimescaleDB 2.18.2](https://www.timescale.com/) & [TimescaleDB Toolkit 1.19.0](https://github.com/timescale/timescaledb-toolkit) & [pgAgent 4.2.2](https://www.pgadmin.org/docs/pgadmin4/development/pgagent.html)
 
 #### Configuation
 
@@ -214,7 +214,7 @@ If you are more interested in stable releases, use the stable repository:
 
 
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-5d9e4d1-blue.svg
-[release]: https://github.com/expaso/hassos-addon-timescaledb/tree/5d9e4d1
+[release-shield]: https://img.shields.io/badge/version-5660749-blue.svg
+[release]: https://github.com/expaso/hassos-addon-timescaledb/tree/5660749
 [license-shield]: https://img.shields.io/github/license/expaso/hassos-addon-TimescaleDB.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
