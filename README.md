@@ -12,6 +12,10 @@ Welcome to my repository of Home-Assistant Addons!
 
 ## Installation
 
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fexpaso%2Fhassos-addons-edge)
+
+or..
+
 In the Home-Assistant add-on store, a possibility to add a repository is provided.
 Use the following URL to add this repository:
 
@@ -85,7 +89,7 @@ For a general repository issue or add-on ideas [open an issue here][issue]
 [pgadmin4-version-shield]: https://img.shields.io/badge/version-43c1114-blue.svg
 [pgadmin4-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [pgadmin4-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[pgadmin4-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[pgadmin4-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [pgadmin4-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [pgadmin4-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
