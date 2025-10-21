@@ -1,4 +1,5 @@
 # Changelog since v5.2.0
+- Made postgresql_config optional 
 - Remove unused POSTGRES_DATA declaration in pre-backup script 
 - Prettified Code! 
 - Fix pgagent version tags and upgrade SSL libraries in Dockerfile 
