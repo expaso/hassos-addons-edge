@@ -74,10 +74,10 @@ on the correct GitHub repository matching the add-on.
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
-[addon-timescaledb]: https://github.com/expaso/hassos-addon-timescaledb/tree/fb727de
-[addon-doc-timescaledb]: https://github.com/expaso/hassos-addon-timescaledb/blob/fb727de/README.md
+[addon-timescaledb]: https://github.com/expaso/hassos-addon-timescaledb/tree/5122144
+[addon-doc-timescaledb]: https://github.com/expaso/hassos-addon-timescaledb/blob/5122144/README.md
 [timescaledb-issue]: https://github.com/expaso/hassos-addon-timescaledb/issues
-[timescaledb-version-shield]: https://img.shields.io/badge/version-fb727de-blue.svg
+[timescaledb-version-shield]: https://img.shields.io/badge/version-5122144-blue.svg
 [timescaledb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [timescaledb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [timescaledb-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
