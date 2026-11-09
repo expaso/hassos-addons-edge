@@ -1,4 +1,15 @@
 # Changelog since v5.4.2
+- Merge pull request #89 from expaso/ci/release-drafter-labels
+
+Release Drafter: breaking-change makes a major version 
+- Release Drafter: breaking-change makes a major, new-feature a minor
+
+The version resolver only knew the labels major/minor/patch, while PRs
+carry the labels the PR Labels check requires (breaking-change,
+new-feature, bugfix, ...). The draft for the 6.0.0 changes therefore came
+out as v5.5.0. Breaking changes also get their own section now.
+
+Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
 - Merge pull request #82 from danieldotnl/fix/pg-hba-config-null-options
 
 Fix pg_hba_config writing literal "null" and orphaned rules on clear 
