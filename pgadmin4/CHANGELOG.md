@@ -1,21 +1,6 @@
-# Changelog since v3.2.0
-- Fixt linter error 
-- Deprecated armhf 
-- Prettified Code! 
-- Dropped support for ARMHF 
-- Upgraded base image 
-- Add PG 17 binaries (#13)
+# Changelog since v4.0.0
+- Upgrade pgAdmin and Home Assistant base image
 
-* Add PG 17 binaries
+Upgrade pgAdmin to 9.19 and the base image to 21.0.11, add PostgreSQL 18 tools, and remove unsupported 32-bit architectures.
 
-* Fixed some hadolint issues
-
-* Upgraded pgAdmin to latest version 9.2
-
-* And fixed 2 liner messages
-
----------
-
-Co-authored-by: Hans van Essen <Expaso@users.noreply.github.com> 
-- Added install repo button 
-- Renamed docker image location 
+Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
